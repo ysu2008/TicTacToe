@@ -9,6 +9,6 @@
 #ifndef TicTacToe_Config_h
 #define TicTacToe_Config_h
 
-#define BOARD_SIZE 5
+#define BOARD_SIZE 3
 
 #endif
