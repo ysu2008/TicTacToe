@@ -1,4 +1,4 @@
 TicTacToe
 =========
 
-Simple Tic Tac Toe game made for practice
+Simple Tic Tac Toe game made for fun.
